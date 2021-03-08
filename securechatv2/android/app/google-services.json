@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869091724538",
+    "project_id": "chatv2-c6166",
+    "storage_bucket": "chatv2-c6166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869091724538:android:78e42a1181f735ff978d43",
+        "android_client_info": {
+          "package_name": "com.example.securechatv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869091724538-qfp0n3bkfnqbpiu7v56c3g4tnotpualh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.securechatv2",
+            "certificate_hash": "d110fa5000d411db398d3ecbe96740f8b78762ed"
+          }
+        },
+        {
+          "client_id": "869091724538-qqcmjog2qhimgemqkiuh0icjnpjsl8fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByUDYsLscxPpOGu6Qd271HI6xEQffqBRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869091724538-qqcmjog2qhimgemqkiuh0icjnpjsl8fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
